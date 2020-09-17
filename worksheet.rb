@@ -1,4 +1,3 @@
-
 all_drivers = [
 		{
 				driver_id: "DR0001",
