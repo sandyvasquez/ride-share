@@ -1,3 +1,4 @@
+
 all_drivers = [
 		{
 				driver_id: "DR0001",
@@ -22,7 +23,6 @@ all_drivers = [
 						}
 				]
 		},
-
 		{
 				driver_id: "DR0002",
 				rides: [
